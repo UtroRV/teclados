@@ -37,3 +37,5 @@ for (let contador = 0; contador < listaDeTeclas.length; contador++) {
     }
 
 }
+
+alert ("Dj Cristovão Fenameno apresenta o melhor site de batidas do mundo")
